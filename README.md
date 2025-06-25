@@ -151,3 +151,5 @@ This section helps place your detection into broader strategic defense and engag
 * **D3FEND:** A knowledge base of defensive countermeasures. It helps map your specific detection to a standardized defensive technique. You can find codes on the [D3FEND website](https://d3fend.mitre.org/).
 
 By following this guide, you will not only document your detections thoroughly but also improve the quality, robustness, and effectiveness of your entire detection engineering program.
+
+Based on: [Jared Atkinson](https://medium.com/@jaredcatkinson) and [MITRE Summiting the Pyramid](https://ctid.mitre.org/projects/summiting-the-pyramid)
